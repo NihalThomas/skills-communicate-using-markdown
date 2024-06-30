@@ -2,6 +2,10 @@
 
 ### This is the first markdown
 
+## Image
+
+![alt text](https://picsum.photos/200/200)
+
 
 
 
