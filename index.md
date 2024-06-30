@@ -10,7 +10,11 @@
 var myVar = "Hello, world!";
 ```
 
+### Task List
 
+- [ ] Turn on GitHub Pages
+- [X] Python
+- [X] Introduce myself to github
 
 
 
