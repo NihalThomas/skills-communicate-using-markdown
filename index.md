@@ -6,6 +6,10 @@
 
 ![alt text](https://picsum.photos/200/200)
 
+``` javascript
+var myVar = "Hello, world!";
+```
+
 
 
 
